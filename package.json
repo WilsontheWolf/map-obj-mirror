@@ -1,5 +1,5 @@
 {
-  "name": "map-to-obj",
+  "name": "map-obj-sync",
   "version": "1.0.0",
   "description": "Convert JS Maps (and Enmaps) to objects.",
   "main": "index.js",
