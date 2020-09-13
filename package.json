@@ -1,0 +1,12 @@
+{
+  "name": "map-to-obj",
+  "version": "1.0.0",
+  "description": "Convert JS Maps (and Enmaps) to objects.",
+  "main": "index.js",
+  "repository": "https://github.com/WilsontheWolf/map-to-obj",
+  "author": "WilsontheWolf",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.9.0"
+  }
+}
