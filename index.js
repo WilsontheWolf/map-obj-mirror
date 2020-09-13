@@ -7,7 +7,7 @@
  * 
  * // require the things
  * const Enmap = require('enmap')
- * const mapObj = require('map-to-obj')
+ * const mapObj = require('map-obj-sync')
  * 
  * // We make our enmap and the object.
  * const db = new Enmap('name');
